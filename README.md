@@ -1,1 +1,1 @@
-# ios-spm
+# indooratlas-ios-sdk SPM package
