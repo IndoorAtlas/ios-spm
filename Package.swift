@@ -18,8 +18,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "IndoorAtlas",
-            url: "https://dl.cloudsmith.io/public/indooratlas/indooratlas-ios-sdk/raw/names/indooratlas-ios-sdk/versions/3.6.5/indooratlas-ios-sdk-3.6.5-release-16edd2b-103.zip",
-            checksum: "59baf5e726846d21be87d74101eea35e6be9801557565ea356983eb6054b7c5e"
+            url: "https://dl.cloudsmith.io/public/indooratlas/indooratlas-ios-sdk/raw/names/indooratlas-ios-sdk/versions/3.6.6/indooratlas-ios-sdk-3.6.6-release-865288f-104.zip",
+            checksum: "19bc55767f9aef5af37a78152e101a13b222cc4015efe0f9959d040309fb6e65"
         ),
     ],
     swiftLanguageVersions: [.v5]
